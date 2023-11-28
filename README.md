@@ -1,3 +1,3 @@
 # coffee
 
-https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa0lCbTVHSkE3WDhqNHpTUXRyUENNcEQ3bFZBUXxBQ3Jtc0tueWN2amFFZG5zQnpQdG45bTAxRkhVYjRxZENaNlpPNUNWYVZURE5SaDEtX1FqbkZ2TWU0S2llOUlyamw1bmg2N253MUpZVkVTVjQ5d1VteERoaXBycElOMmdlRTdFa0VTeFlMelVCUjlLWkRXTnNTZw&q=https%3A%2F%2Fwww.postgresql.org%2Fdownload%2F&v=MvcDM2nLdzI
+https://www.postgresql.org/download/
