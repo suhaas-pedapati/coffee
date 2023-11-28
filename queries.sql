@@ -67,6 +67,7 @@ SELECT *
 FROM suppliers
 WHERE NOT supplier_name = 'Beans and Barley';
 
+-- <> means NOT
 SELECT *
 FROM suppliers
 WHERE supplier_name <> 'Beans and Barley';
